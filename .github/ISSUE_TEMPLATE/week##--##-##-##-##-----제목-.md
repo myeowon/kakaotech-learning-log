@@ -1,6 +1,6 @@
 ---
 name: week## (##/##~##/##) - <제목>
-about: ''
+about: 주간 학습일지
 title: ''
 labels: ''
 assignees: ''
